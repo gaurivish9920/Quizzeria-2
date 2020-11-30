@@ -6,7 +6,7 @@ var chalk = require("chalk")
  
 
  var username = readlineSync.question("Enter your name bud : ")
-console.log("Welcome to my first quiz game " + username + "!!!")
+console.log("Welcome to my quiz game Quizzeria " + username + "!!!")
 console.log("Press Enter key to submit answer.")
 var score = 0
 
